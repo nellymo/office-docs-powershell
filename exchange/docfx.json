@@ -34,7 +34,7 @@
         ],
         "src": "exchange-ps/exchange",
         "version": "exchserver-ps-2016",
-        "dest": "exchserver-ps-2016/module"
+        "dest": "module/exchange-ps"
       },
       {
         "files": [
@@ -54,7 +54,7 @@
         ],
         "src": "exchange-ps/exchange",
         "version": "exchserver-ps-2013",
-        "dest": "exchserver-ps-2013/module"
+        "dest": "module/exchange-ps"
       },
       {
         "files": [
@@ -74,7 +74,7 @@
         ],
         "src": "exchange-ps/exchange",
         "version": "eop-ps",
-        "dest": "eop-ps/module"
+        "dest": "module/exchange-ps"
       },
       {
         "files": [
@@ -86,7 +86,7 @@
           "toc.yml"
         ],
         "version": "exchonline-ps",
-        "dest": "exchonline-ps/module"
+        "dest": "module"
       },
       {
         "files": [
@@ -94,7 +94,7 @@
         ],
         "src": "exchange-ps/exchange",
         "version": "exchonline-ps",
-        "dest": "exchonline-ps/module"
+        "dest": "module/exchange-ps"
       }
     ],
     "resource": [
